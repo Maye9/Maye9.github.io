@@ -998,6 +998,7 @@ section,
 
 @media (max-width: 575px) {
   .portfolio .portfolio-filters li {
+    
     font-size: 14px;
     margin: 0 5px;
   }
@@ -1005,6 +1006,7 @@ section,
 
 .portfolio .portfolio-item {
   position: relative;
+  ;
 }
 
 .portfolio .portfolio-item .portfolio-info {
@@ -1023,6 +1025,8 @@ section,
   font-size: 18px;
   font-weight: 600;
   padding-right: 50px;
+  width: 416px;
+  height: 300px;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
