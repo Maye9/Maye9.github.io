@@ -1630,11 +1630,6 @@ form {
   border: 4px solid #f1f1f1;
 }
 
-/* Add some padding and a grey background color to containers */
-.container {
-  padding: 20px;
-  background-color: #f1f1f1;
-}
 
 /* Style the input elements and the submit button */
 input[type=text], input[type=submit] {
